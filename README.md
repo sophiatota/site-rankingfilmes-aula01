@@ -1,2 +1,2 @@
-## tudo nao toa
-Meu querido site, tudo bem simsim vamos la e tamo ai 2 b o melhor
+## Site - Ranking de Filmes!
+Site realizado com o propósito de trabalhar navegação/criação de páginas com listas de itens em HTML.
